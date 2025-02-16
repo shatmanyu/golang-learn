@@ -139,4 +139,8 @@ func main() {
 	pb[13] = "twealkio"
 	fmt.Println(pb)
 
+	var temp_name = "Doemant"
+	updateName(temp_name)
+	fmt.Println(temp_name)
+
 }
