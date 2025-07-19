@@ -1,1 +1,1 @@
-Repo for learning Golang
+Go Learning
